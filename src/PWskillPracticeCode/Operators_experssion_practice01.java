@@ -17,11 +17,30 @@ public class Operators_experssion_practice01 {
 //        }
 
         // Question no 03
-        // Write a program to print the value of input if it is even and divisible by 3 .
-        Scanner sc = new Scanner(System.in);
-        System.out.println( " Enter the number which you want to check if it is even and divisible by 3");
-        int num = sc.nextInt();
+        // Write a program to print the value of input if it is an Even Number .
 
+//        Scanner sc = new Scanner(System.in);
+//        System.out.println( " Enter the number which you want to check if it is even and ");
+//        int num = sc.nextInt();
+//        if (num % 2 == 0  ){
+//            System.out.println("The number " +  num +" is an Even Number ");
+//        }
+//        else {
+//            System.out.println("The Number "+ num + " is a Odd Number");
+//        }
+
+
+        // Write a program to print the value of input if it is a divide by 3 or not .
+
+//        Scanner sc = new Scanner(System.in);
+//        System.out.println(" Enter the Number which you want to check if it is a divisible by 3");
+//        int num = sc.nextInt();
+//        if (num % 3 == 0 ){
+//            System.out.println("Yes The Number " + num + " is Divided by 3 ");
+//        }
+//        else {
+//            System.out.println(" No .. The NUmber " + num + " is not Divisible by 3 ");
+//        }
 
     }
 }
